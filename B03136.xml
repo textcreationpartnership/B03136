@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegy and funeral oration, on the death of the Reverend Richard Lingard, D.D.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03136</idno>
+            <idno type="STC">Wing E345</idno>
+            <idno type="STC">ESTC R171913</idno>
+            <idno type="EEBO-CITATION">51784522</idno>
+            <idno type="OCLC">ocm 51784522</idno>
+            <idno type="VID">174932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174932)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2706:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegy and funeral oration, on the death of the Reverend Richard Lingard, D.D.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Tooke ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M DC LXXI. [1671]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: dark, stained, with some loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lingard, R. --  (Richard), 1598?-1670 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174932:1" rendition="simple:additions"/>
+            <p>AN ELEGY AND Funeral Oration, ON THE DEATH Of the Reverend RICHARD LINGARD, <hi>D. D.</hi>
+            </p>
+            <p>Dean of <hi>Liſmore,</hi> and Publick Profeſſor of Divinity in the Univerſity of <hi>Dublin.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Tooke,</hi> and are to be ſold at the <hi>Ship</hi> in St. <hi>Pauls Church-yard.</hi> M DC LXXI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:174932:2"/>
+            <pb n="1" facs="tcp:174932:2"/>
+            <head>
+               <hi>On the Death of the Reverend</hi> RICHARD LINGARD, D. D. Dean of <hi>Liſmore,</hi> and publick Profeſſor of Divinity in the <g ref="char:V">Ʋ</g>niverſity of <hi>Dublin.</hi>
+            </head>
+            <head type="sub">ODE.</head>
+            <epigraph>
+               <q>Immedicis brevis eſt aetas, &amp; rara ſenectus, Quicquid amas, <hi>&amp;c.</hi> 
+                  <bibl>Mart.</bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>I Am convinc'd now that I was abus'd,</l>
+               <l>I thought it once a common place,</l>
+               <l>Rather a cuſtom, than a grace,</l>
+               <l>And common as the Deaths for which 'twas us'd;</l>
+               <l>When Poets rather than their grief,</l>
+               <l>Impos'd upon their own belief,</l>
+               <l>Telling the World that all things rare,</l>
+               <l>Were only ſymptoms of deſpair;</l>
+               <l>That to be early very great</l>
+               <l>Was life's perfection, and its date,</l>
+               <l>The only Criſis of approaching fate:</l>
+               <l>Methought they ſeem'd as if they wou'd</l>
+               <l>Perſwade 'twas dang'rous to be good,</l>
+               <l>That ripeſt Vertue which can only claim</l>
+               <l>With us an immortality, was Fame,</l>
+               <l>And meerly mortal, ſet aſide the Name.</l>
+               <l>That come unto its pitch, it did expire,</l>
+               <l>Becauſe it never cou'd get higher</l>
+               <l>And ſooner fell, if it did ſoon acquire,</l>
+               <l>As if the ſwiftneſs made it out of breath,</l>
+               <l>And its perfection, not diſeaſe alone, but death.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>To prove this Fate, you'l with an Emblem meet</l>
+               <l>Of Flowers that in ſtrange perfumes ſmile,</l>
+               <l>And with realities beguile,</l>
+               <l>As ſweet as ſhort, but ah! as ſhort as ſweet;</l>
+               <l>Or elſe they'l tell you that the day,</l>
+               <l>Which laughs in the moſt vigorous ray,</l>
+               <l>Can't laſt, but ends the ſooner for its flight,</l>
+               <pb n="2" facs="tcp:174932:3"/>
+               <l>And weeps its glories in ſwift night:</l>
+               <l>Such Similies as theſe, my deareſt Friend,</l>
+               <l>May ſuit with Verſe, but not thy end,</l>
+               <l>He muſt name nothing elſe, that wou'd commend,</l>
+               <l>Pardon <hi>Gray Vertues,</hi> if I am ſo bold,</l>
+               <l>(And grief is ſo) to ſay that you are <hi>Old:</hi>
+               </l>
+               <l>
+                  <hi>LINGARD</hi> was green, green as the World firſt was,</l>
+               <l>Born at full age, bearded with downy graſs,</l>
+               <l>Yet he was ripe, yea full as ripe as they,</l>
+               <l>Who to his Cradles colour live their way;</l>
+               <l>For he was born juſt as he dyed, all grey.</l>
+               <l>Now I'le believe the man that did implore</l>
+               <l>That, or his joys, or wiſhes might be low'r,</l>
+               <l>Leſt one exceſs the other ſhou'd devour,</l>
+               <l>That wiſh, dear <hi>LINGARD,</hi> fitted us for thee,</l>
+               <l>For if ere man was lov'd to death, then thou art he.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Thy day of life as yet ſhone in its prime,</l>
+               <l>Freſh in its morning it did play,</l>
+               <l>In the young manhood of its day,</l>
+               <l>And had a journey to the noon of time,</l>
+               <l>Ne're dreamt of ſhades, but briskly ran,</l>
+               <l>When Death that grand Eclipſe began,</l>
+               <l>And interpos'd dull Earth by a ſad ſleight,</l>
+               <l>Hiding thy beams, has leſt poor us in night;</l>
+               <l>Our little world looks dark for want of thee,</l>
+               <l>And ſuch another light it ſcarce will ſee,</l>
+               <l>Till <hi>the firſt laſt day</hi> of Eternity.</l>
+               <l>Can't Death miſtake? For ſure it told</l>
+               <l>Thy aged parts, and therefore thought thee old.</l>
+               <l>Ah no! 'twas Heav'n call'd for its own,</l>
+               <l>All thoughts of Age it lets alone,</l>
+               <l>Time's not regarded there, nor known:</l>
+               <l>But Thee it knew, and therefore did approve,</l>
+               <l>Yet with a due reſpect to thoſe above,</l>
+               <l>Better than Us they may, more they can't love.</l>
+               <l>Should it chooſe often ſo, mortals forgive,</l>
+               <pb n="3" facs="tcp:174932:3"/>
+               <l>If I affirm, 'twill ſoon become a ſhame to live.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Surely kind Heav'n will thy great loſs repair,</l>
+               <l>And in exchange ſend us one down</l>
+               <l>To bear the honours of the Gown,</l>
+               <l>The double charge of Pulpit, and of Chair,</l>
+               <l>When to the ſacred Schools he came,</l>
+               <l>How did he check, and ſnuff the flame</l>
+               <l>Of thoſe whoſe paſſion was their cauſe,</l>
+               <l>And thought Divinity applauſe;</l>
+               <l>I've ſeen him when ſmall things aroſe,</l>
+               <l>The empty ſtratagems oppoſe,</l>
+               <l>And cut the hairs, and ſhave 'um cloſe:</l>
+               <l>He'd give them ſcope, a Sea he'd let them have,</l>
+               <l>And talk in ſtorms, and in huge tempeſts rave;</l>
+               <l>But if the furious waves touch'd Heaven, he'd riſe,</l>
+               <l>And like a <hi>Neptune,</hi> with his brow chaſtiſe,</l>
+               <l>And look all ſmooth, and fair as his own eyes:</l>
+               <l>He'd end thoſe little wars with ſuch ſucceſs,</l>
+               <l>And with ſuch ſatisfaction, one might gueſs,</l>
+               <l>The men themſelves did know their own minds leſs;</l>
+               <l>Were we not ſure Heav'n no diſpute can bear,</l>
+               <l>The Saints might chooſe him to the ſelf ſame office there:</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>But when he in the Pulpit did appear,</l>
+               <l>(The Pulpit now an empty place)</l>
+               <l>'Twas in ſuch genuine Majeſtick grace;</l>
+               <l>As if ſome Angel mov'd in his own ſphere;</l>
+               <l>He aim'd not at that ſhallow happineſs</l>
+               <l>Of owing matter to a formal dreſs,</l>
+               <l>To cheat mens judgments never was his care,</l>
+               <l>He ſlighted painted words, and carved air.</l>
+               <l>Things in his words, no Picture there appears,</l>
+               <l>Things from him came ſo naked to the ears.</l>
+               <l>As if his Organs were not his, but thiers;</l>
+               <l>Though much he ſpake, yet all was ſhort he ſaid,</l>
+               <l>He ſpake things almoſt juſt as they were made.</l>
+               <pb n="4" facs="tcp:174932:4"/>
+               <l>When he (as ſtill he was at naming ſin)</l>
+               <l>In what a holy paſſion has he been,</l>
+               <l>What extaſies have Men and Angels ſeen?</l>
+               <l>To ſuch a decent rage he'd grow,</l>
+               <l>As if he knew not what he did; but ſo</l>
+               <l>He did it, as he always made us know:</l>
+               <l>Like healing ſpears his words 'gainſt ſin imploy'd,</l>
+               <l>Did make Vice bluſh, and love to ſee it ſelf deſtroy'd.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>He ſeem'd to ſome that knew him, ſo inclin'd,</l>
+               <l>Or rather tied to vertue ſo,</l>
+               <l>That he was good ev'n whe'r he wou'd or no.</l>
+               <l>For vertue was the very ſoul of<g ref="char:punc">▪</g>s mind.</l>
+               <l>Severe he was to vice alone,</l>
+               <l>Yet ſcarce then was his rage his own,</l>
+               <l>So very mild his native meen,</l>
+               <l>And ſo extreamly hard to wean,</l>
+               <l>That he, plain he, than whom was none,</l>
+               <l>Hypocriſie could more diſown,</l>
+               <l>Was ſorc'd to counterfeit a frown;</l>
+               <l>And this though juſt he was compell'd to do,</l>
+               <l>Firſt fell out with himſelf, and then with you.</l>
+               <l>But all this vertue's buried! can there be</l>
+               <l>A Grave, a Tomb for immortality?</l>
+               <l>If vertue e're was mortal, twas in Thee.</l>
+               <l>A Feaver took him hence, a Feaver came,</l>
+               <l>And ſnatch't him hence, oh giv't a better name,</l>
+               <l>He cou'd not burn but in ſome holy flame.</l>
+               <l>Call it a Chariot of fire,</l>
+               <l>He like a Prophet ſhould retire,</l>
+               <l>And all the Univerſe muſt thus expire,</l>
+               <l>The Phoenix world like him one day,</l>
+               <l>Will in bright flames refine its clay,</l>
+               <l>And only purge the Accidents away;</l>
+               <l>For be it ſpoke with reverence to the skies,</l>
+               <l>Bate them, and as he fell, we may expect he'l riſe.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="oration">
+            <pb n="5" facs="tcp:174932:4"/>
+            <head>Oratio Funebris habita in Aula <hi>Collegii Trinitatis</hi> juxta <hi>Dubl. Novem.</hi> die decimo tertio, in Exe<g ref="char:EOLhyphen"/>quiis Viri vere Reverendi <hi>RICHARDI LIN<g ref="char:EOLhyphen"/>GARDI,</hi> S. T. D. &amp; Profeſſoris Pub. necnon Decani <hi>Liſmorenſis.</hi>
+            </head>
+            <p>INtuenti mihi, Auditores, circumfuſam hanc Coronam, tot funeſti &amp; lugubres undique Vultus occurrunt, adeo Omnia Squalore inſolito obſita, it à mortua planè viſa ſunt, ac ſi conventum hodiernum habuiſſemus, non tam ad Sepe<g ref="char:EOLhyphen"/>liendum Viri Clariſſimi Cadaver, quam ad Repraeſentandum: Statuarum more, ad illius obrigentes Monumentum. Flevtmus nuper Nonnullorum Funera; at <hi>Lingardi</hi> obſlupeſcimus Fatum: ſcilicet ſi tota Academia unico ictu evertere<g ref="char:EOLhyphen"/>tur &amp; in Collegium Omnium Animarum Tranſmigraret, lugendum minus eſſet Iuſortunium, &amp; licet ad tantum Funus celebrandum deeſſet forſitan Orator, minus certè quam nunc deſideraretur. Quod ad me attinet, de mortuo <hi>Lin<g ref="char:EOLhyphen"/>gardo</hi> loquuturus, ipſum morientem refero, elangutſcit Lingua, vox haeret fau<g ref="char:EOLhyphen"/>cibus, nil niſi triſte ſonans &amp; lethale: Sin attonitus minùs extitiſſem Orator, ipſa tamen deeſſent verba vel noſtris doloribus, vel (quae unica majora ſunt) illius meritis partia: neque enim aequum eſt ut amplius eloquium expectaretis, dum in eternum ſileat <hi>Lingardus.</hi> Jacet ille inter Silentum clauſtro taciturnus, vo<g ref="char:EOLhyphen"/>calis nuper Myſta nec minùs Oraculum, quique modo tonitru &amp; fulgure miſſis de talo vocibus, Numinis inſtar, eloquutus eſt; &amp; tam caeleſti igne vel intactis corporibus liquefecit Animas, ſilens eheu! ipſus exanimiſque jacet, Fulguris in<g ref="char:EOLhyphen"/>ſlar, ipſâ in coruſcatione evaneſcens.</p>
+            <p>Sed ut eruditius lugeamus, &amp; ut grata <hi>Lingardi</hi> Manibus fieret Parentatio, attentiùs paulo perpendamus, quot <g ref="char:V">Ʋ</g>nico in Viro virtutes amiſimus,quot Ar<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, &amp; Naturae dotes und cum illo interierunt, quae quanquam infinita poenè ſint &amp; majora quam comprehendi poterint, aliquale tamen pietatis erit Indi<g ref="char:EOLhyphen"/>cium illorum vel aemulari Scientiam; idemque de <hi>Lingardi</hi> Perfectionibus dici poteſt, quod de divinis ſolet, quarum cognitionem Omnes expetere debent, licet Nemo unquam ſit aſſequuturus.</p>
+            <p>Familia oriundus eſt antiquâ ſatis, nec ignobili, licet nulla jactitet Stemmata, vel dimidiatas Heroum Imagines, Protoplaſto ſimilis qui nullos agnoverat Ma<g ref="char:EOLhyphen"/>jores ſibimet ipſe Origo fuit, &amp; Complementum: Minora Sidera ſuum mutuantur Splendorem, Sol tantum nativâ gloriâ eluceſcit, idemque ſaepe accidit Viris il<g ref="char:EOLhyphen"/>luſtrioribus, quod maximis Fluminibus, quorum Fontes ſaepenumerò ignorantur. Si doctrina verò faceret Heroas, à Patre Semone ortus eſt, Viro uſque adeo eru<g ref="char:EOLhyphen"/>dito ut (ſi quam Fame fidem adhibeamus) inſigniois notae Theologum poſteriora haec Saecula non produxere, praeter unicum filium, adeo ut crederemus illum ex<g ref="char:EOLunhyphen"/>troduce Theologum, &amp; naſci Profeſſorem.</p>
+            <p>At quia Piaculum eſſet quicquam de <hi>Lingardo</hi> niſi magnum hariolari, aſpi<g ref="char:EOLhyphen"/>ciamus illum praeteritis puerilibus annis, grandiore jam aetate provectum, ab A<g ref="char:EOLhyphen"/>cademia exornatum, illamque rurſus exornatum, à <hi>Cantabrigia</hi> ingentes hono<g ref="char:EOLhyphen"/>res referentem, quibus non minores retribuerat, ubi breviſſimo temporis inter<g ref="char:EOLhyphen"/>vallo profectu, tanto adolevit ut Scientias univerſas ita noverit, uti nemo paenè Singulas, utpote qui naturâ, &amp; Artibus uſus eſt ſimiliter liberalibus Dilectiſſi<g ref="char:EOLhyphen"/>mum hunc Alumnum diu amplectebatur Granta, ſed Ignobilium &amp; vulgi Fatum eſt, niſi in Civitate ſuâ ignorari, nec naſcebatur <hi>Lingardus</hi> Ephemeridi ſimilis, in uſum unius tantum Regionis. Huc igitur accerſitur, Ac neſcio ſanè utrum
+<pb n="6" facs="tcp:174932:5"/> majores hâc Academia Grantae debentur Gratiae, quod nobis primùm dederit Collegium, vel quod tontum Virum accomodaverit. Ejus enim <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ope pri<g ref="char:EOLhyphen"/>ſtino Splendori reſtituia eſt Academia, quae vel in Academia quaeteretur. Sta<g ref="char:EOLhyphen"/>tuta, mores, pietatem denique antiquam reddidit, noc tantum diſſipavit nubes, verùm etiam Orbem Academicum illuſtravit. Piam etiam collocavit operam in Eccleſiam purificando, Fanatici<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sordibus inquinatam. Ingens verè opus! nec minus quam Augaeum Stabulum purgaſſe, luſtare Templa quae aliquando in Stabula converſa ſunt. Totos Schiſmaticorum Exercitus ipſe ſolus ſtraviſse poterat, diraque illa Sectariorum capita, hydras reneſcentes contudiſſe, Romae cla<g ref="char:EOLhyphen"/>dem vel ad aras juravit Sacer <hi>Hannibal,</hi> Alpeſque Atramento penetrare potuit Aceto longe edaciore: adeo ut in illo tanta <hi>Romae &amp; Genevae</hi> ignominia <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Britanniae</hi> gloria occubuerit.</p>
+            <p>Sic regnavit diu Doctrinae, Ingenii, &amp; Virtutum Princeps, diu &amp; adhuc ſine Rivali regnaturus, Inſigneſque hae Animi dotes tali comitate junctae ſunt, ut Charitate ejus mil unquam univerſum magis, praeter Eruditionem; neque enim o<g ref="char:EOLhyphen"/>pus erat ut ad ſtabiliendum ejus Imperium, Sultanorum more, ſuos occideret Fra<g ref="char:EOLhyphen"/>tres.</p>
+            <p>Quantâ perſpicuitate retexit Scholaſticorum telas? adeo ut Haereticus unuſ<g ref="char:EOLhyphen"/>quiſque, <hi>Arachnes</hi> ad inſtar, propriis viſceribus fatalia ſibi fila traxiſse videre<g ref="char:EOLhyphen"/>tur; ac ſi Romani iſti Pugiles, ut Romani Gladiatores, intrarent Theatrum, tantùm ut occiderentur. Coram ingenii illius luce evanuerunt tenuia Barbarorum Sophiſmata, nec amplius ſubtiles audiunt, nec Angelici, nec Irrefragabiles, Ore<g ref="char:EOLhyphen"/>cula ejus vel à Sera Poſteritate memor abuntur, tanquam Numinis verba <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſi cum ipſius Orbis interitu peritura; quique tot divina pandit myſteria ſemper vigebit, efforebitque ſemper Scholae perpetuus Dictator.</p>
+            <p>Cum vero pro Roſtris peroraret, quam ſacro horrore perculit auditorum me<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Conciones illae ſuadentes gratiam. ipſius gratiae inſtar, placidè quidem traxerunt animum, ſed irreſiſtibiliter. Quam coeleſti furore caeleſtia profudit verbo? Mi<g ref="char:EOLhyphen"/>rabile certè eſt illum non zelo citiùs &amp; pietate, quam febre tabuiſſe. Occubuit verò tandem hoſtili morbo adortus, &amp; propriâ Fortitudine proditus, ipſius <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fortunâ, quoe diviſi Orbis &amp; ſui ipſius Viribus labefacta eſt. Victor <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>er omnes glorias, inter omnia Trophaea defunctus, vel medio in triumpho cogitur ſeſe mortalem meminiſſe. Sic vireſcunt flores donec ad ſummam perveniunt pulchri<g ref="char:EOLhyphen"/>tudinem, &amp; nimto calore exareſcunt; mediâ in aetate mortuus Lunam refert, qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nunquam niſi cum plena ſit, patitur Eclipſin. Quid mirum jam ſi Eccleſia rue<g ref="char:EOLhyphen"/>ret cujus Baſis facta eſt cinis, cujus Columna Sepulchrum eſt? Quicunque tran<g ref="char:EOLhyphen"/>ſeatis in poſterum Viatores ad illius tumulum, ſiſlite pedes, &amp; cognoſcite majus publici doloris nunquam extitiſſe Monumentum quam <hi>Ligardi</hi> Cadaver: Diſcite in illius jacere Rogo ſui Saeculi delicias &amp; miraculum; Theologorum doctiſſimum, Amicorum fideliſſimum, in quantum denique pateretur humana ſors, Virum un<g ref="char:EOLhyphen"/>dequaque conſummatum: nec amplius miremini barbara barbarorum Monumen<g ref="char:EOLhyphen"/>ta, miraculorum nomine cohoneſtantes, ſub hoc quippe Marmore miracul<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſe<g ref="char:EOLhyphen"/>pelitur, id enim ſonat <hi>Lingardus,</hi> vigetque Famâ aere Corinthiaco &amp; Mauſolae perenniore, Pyramide Famâ, cujus Baſis terram aequat latitudine, Faſtigium Ca<g ref="char:EOLhyphen"/>los ſublimitate, Famâ quae ſemper ad ſidera aſpirabit, quaeque ipſi tempori co<g ref="char:EOLhyphen"/>aevae, Pyramidis inſtar, nullas unquam umbras admiſſura eſt.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
